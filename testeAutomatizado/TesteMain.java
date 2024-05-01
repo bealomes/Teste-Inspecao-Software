@@ -23,6 +23,5 @@ public class TesteMain {
 
         // Verifica se a saída contém o mês e ano corretos
         assertTrue(output.contains("Setembro 2023"));
-        // Adicione mais verificações conforme necessário para outros casos de teste
     }
 }
